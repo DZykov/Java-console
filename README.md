@@ -6,16 +6,23 @@ Impleneation of terminal with some commands in Java. The purpose of this project
    - [Demo](#Demo "Goto Demo")
    - [Features](#Features "Goto Features")
    - [Commands](#Commands "Goto Commands")
-   - [Structure](#Structure "Goto Structure")
    - [Issues](#Issues "Goto Issues")
 
 
 
 ## Demo
 
+![alt text](https://github.com/DZykov/Java-console/blob/main/img/show_case.png)
+
+![alt text](https://github.com/DZykov/Java-console/blob/main/img/show_case2.png)
+
+![alt text](https://github.com/DZykov/Java-console/blob/main/img/show_case3.png)
+
 https://user-images.githubusercontent.com/38252337/188289701-c499e240-f216-41c4-a704-ec8cc14bbc79.mp4
 
 ## Features
+- History of commands
+- Up/down arrows to scroll comands from history
 - Lazy encription/decryption
 - Customizable style
 - Loops for the commands
@@ -53,9 +60,6 @@ https://user-images.githubusercontent.com/38252337/188289701-c499e240-f216-41c4-
 |-text font [size(integer)] [name of the font]		     | changes the font of a text
 |-back [r, g, b]/[color in words (red/white/etc)]	     | changes the background color
 |-size [integer for width, integer for height]/[normal]	 | changes the size of a console
-
-## Structure
-
 
 ## Issues
 - This application was made for windows; however, it stills runs on ubuntu/mac but some commands doesn't work, and tray is not supported
