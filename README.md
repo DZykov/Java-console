@@ -62,4 +62,4 @@ https://user-images.githubusercontent.com/38252337/188289701-c499e240-f216-41c4-
 |-size [integer for width, integer for height]/[normal]	 | changes the size of a console
 
 ## Issues
-- This application was made for windows; however, it stills runs on ubuntu/mac but some commands doesn't work, and tray is not supported
+- This application was made for windows; however, it stills runs on ubuntu/mac but some commands don't work, and tray is not supported
